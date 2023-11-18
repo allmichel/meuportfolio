@@ -1,7 +1,7 @@
 # Minicurso Desenvolvimento Web
 Este portfólio foi feito por meio de uma iniciativa do projeto ENGEDADOS, ofertado na Universidade Federal do Ceará, onde foi ensinado a criação de um site usando HTML, CSS, JavaScript e Bootstrap.
 
-![engedados]([https://media.licdn.com/dms/image/D4D2DAQE-XqmcpD31HQ/profile-treasury-image-shrink_800_800/0/1693530728388?e=1694138400&v=beta&t=vXSf2kP5OSnafh5Kt3_SL1XmFEFNMyCrvr0hESwNj1M](https://media.licdn.com/dms/image/D4D2DAQE-XqmcpD31HQ/profile-treasury-image-shrink_800_800/0/1693530728388?e=1700924400&v=beta&t=jC6PXvLYR4IXQAt31TQIm3oB8deEr__6uDRbxf8wpJs))
+![engedados](https://media.licdn.com/dms/image/D4D2DAQE-XqmcpD31HQ/profile-treasury-image-shrink_800_800/0/1693530728388?e=1700924400&v=beta&t=jC6PXvLYR4IXQAt31TQIm3oB8deEr__6uDRbxf8wpJs)
 
 
 # Sites de alguns dos alunos do curso
